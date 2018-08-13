@@ -36,9 +36,10 @@
 
 * For a third time, we went through the full procedure of creating a new Rails application from scratch, installing the necessary gems, pushing it up to a remote repository, and deploying it to production.
 
-* The rails script generates a new controller with rails generate controller ControllerName <optional action names>.
+* The rails script generates a new controller with `rails generate controller ControllerName <optional action names>`.
 
-* New routes are defined in the file config/routes.rb.
+* New routes are defined in the file `config/routes.rb`.
+
 * Rails views can contain static HTML or embedded Ruby (ERb).
 
 * Automated testing allows us to write test suites that drive the development of new features, allow for confident refactoring, and catch regressions.
